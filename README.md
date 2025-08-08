@@ -5,6 +5,11 @@ Pengguna dapat memilih kategori masakan, memesan beberapa menu sekaligus, memasu
 
 ---
 
+# ✒️ Author
+Dibuat oleh Nasrul dan Faiz untuk memenuhi Project UAS Pemrograman 1.
+
+---
+
 ## 🎯 Tujuan
 - Memberikan simulasi sistem pemesanan makanan online berbasis **console application**.
 - Melatih penggunaan **array**, **percabangan**, **looping**, dan **struktur input/output** pada bahasa C++.
@@ -31,7 +36,7 @@ Fitur utama program:
 ---
 
 ```
-Progam Restoran Online Faiz Nasrul Sejahtera
+Progam Restoran Online Sejahtera
 ```
 
 ---
